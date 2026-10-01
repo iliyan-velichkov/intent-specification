@@ -2,7 +2,7 @@
 
 - **Status:** draft
 - **Issue:** [eclipse-dirigible/dirigible#7593](https://github.com/eclipse-dirigible/dirigible/issues/7593)
-- **Implementation:** [eclipse-dirigible/dirigible#7594](https://github.com/eclipse-dirigible/dirigible/pull/7594) (merged; not yet released)
+- **Implementation:** [eclipse-dirigible/dirigible#7594](https://github.com/eclipse-dirigible/dirigible/pull/7594) (released in [14.70.0](https://github.com/eclipse-dirigible/dirigible/releases/tag/v14.70.0))
 - **Companion:** [`0021-arrival-mapping.md`](0021-arrival-mapping.md) — the envelope reading this one
   extends from single values to a set.
 - **Discussion:** (this PR)
